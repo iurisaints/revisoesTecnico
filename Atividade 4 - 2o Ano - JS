@@ -1,0 +1,47 @@
+Lista de Exercícios JS
+
+1. Declare uma variável com seu nome e outra com sua idade. Exiba as duas no console com uma frase usando template string.
+
+2. Crie uma função chamada `saudar` que receba um nome por parâmetro e retorne “Olá, \[nome]!”.
+
+3. Escreva uma função que receba um número e retorne se ele é **par** ou **ímpar**.
+
+4. Crie um array com 5 nomes e exiba todos eles no console usando um `for`.
+
+5. Crie um objeto `aluno` com as propriedades `nome`, `idade` e `notaFinal`. Exiba a nota final no console.
+
+6. Faça um programa que receba a idade de uma pessoa e diga se ela é maior de idade ou não.
+
+7. Crie uma função que receba dois números e retorne o maior deles.
+
+8. Crie uma função que receba um array de números e retorne a soma de todos os elementos.
+
+9. Crie uma função que receba uma string e retorne quantas letras ela tem.
+
+10. Crie uma função que receba um número e diga se ele é positivo, negativo ou zero.
+
+---
+
+### 🧩 Complete o código
+
+11. Complete a função para que ela retorne a média de três notas:
+
+```js
+function calcularMedia(n1, n2, n3) {
+  // complete aqui
+}
+```
+
+---
+
+12. Complete o código para que ele exiba todos os números pares de 1 a 10 no console:
+
+```js
+for (let i = 1; i <= 10; i++) {
+  // complete aqui
+}
+```
+
+---
+
+Data de Entrega: 22/05/2025
