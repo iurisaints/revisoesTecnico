@@ -1,0 +1,52 @@
+Lista de Atividades SQL
+
+1. Criar um banco de dados chamado `escola`.
+
+2. Criar uma tabela `alunos` com os seguintes campos:
+
+   * id (chave primária, auto incrementável)
+   * nome (texto)
+   * data de nascimento (data)
+   * nota final (decimal)
+
+3. Inserir pelo menos 5 alunos diferentes na tabela `alunos`, com nomes, datas de nascimento e notas variadas.
+
+4. Exibir todos os dados da tabela `alunos`.
+
+5. Exibir somente os alunos com nota final acima de 7.
+
+6. Exibir os alunos em ordem alfabética pelo nome.
+
+7. Exibir os 3 primeiros alunos cadastrados.
+
+8. Atualizar a nota final de algum aluno.
+
+9. Excluir um aluno com nota menor que 6.
+
+10. Exibir alunos nascidos entre 2005 e 2006.
+
+11. Exibir alunos cujo nome comece com a letra "D".
+
+12. Criar uma tabela `turmas` com id e nome.
+
+13. Relacionar a tabela `alunos` com `turmas` usando uma chave estrangeira.
+
+14. Atualizar os alunos para pertencerem a turmas diferentes.
+
+15. Listar os alunos junto com o nome de suas respectivas turmas.
+
+16. Calcular a média das notas de todos os alunos.
+
+17. Mostrar a quantidade de alunos por turma.
+
+18. Exibir a maior e a menor nota final por turma.
+
+19. Criar uma tabela `professores` com id e nome.
+
+20. Relacionar cada turma a um professor.
+
+21. Fazer uma consulta que mostre: nome do aluno, nome da turma e nome do professor responsável.
+
+---
+
+Data de Entrega: 22/05/2025
