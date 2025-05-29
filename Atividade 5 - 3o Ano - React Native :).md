@@ -12,7 +12,7 @@ Crie um novo projeto React Native usando **Expo CLI**.
 * Comando esperado:
 
 ```bash
-npx create-expo-app MinhaMaratona
+npx create-expo-app MinhaMaratona --template blank
 ```
 
 * Rode o projeto em emulador ou no celular com o **Expo Go**.
